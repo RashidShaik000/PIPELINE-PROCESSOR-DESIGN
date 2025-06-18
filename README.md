@@ -20,3 +20,11 @@ APPLICATIONS: Increases the throughput of the processor, meaning more instructio
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/eb2299e4-57ad-44f9-b26d-085e24c1c960)
+
+![Image](https://github.com/user-attachments/assets/8fb61bde-4aa8-46ec-be66-6f6faaff6db7)
+
+![Image](https://github.com/user-attachments/assets/84c6913f-6566-44ae-9b8a-a2a32a15be12)
+
+![Image](https://github.com/user-attachments/assets/fb4e9dd5-b93e-4318-b314-8dc5a07f341b)
+
